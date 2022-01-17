@@ -1,6 +1,7 @@
 # Behavior Diagram
 
 ## 액티비티 다이어그램(Activity Diagram)
+<br>
 
 ### 1. 액티비티 다이어그램이란?
 - 시스템의 제어 순서를 표현하는 다이어그램
@@ -9,3 +10,13 @@
 
 ### 2. 구성요소
 ![구성요소](https://github.com/prsn-ts/Study_together_corp/blob/master/picture/UML(Unified_Modeling_Language)/activity_diagram/components.JPG)
+<br><br><br>
+
+### 3. 작성 포인트
+```
+- 수단보단 목적을 기반
+- 액티비티의 분할 정를 맞춤
+- 주석을 사용
+- 역할의 발견
+- 용어사전의 작성
+```
