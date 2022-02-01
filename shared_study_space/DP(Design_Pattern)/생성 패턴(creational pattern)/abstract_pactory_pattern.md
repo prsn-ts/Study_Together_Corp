@@ -14,3 +14,4 @@
 <br>
 
 ### 3. 사용 예시
+![사용 예시](https://github.com/prsn-ts/Study_together_corp/blob/master/picture/DP(Design_Pattern)/%EC%83%9D%EC%84%B1%20%ED%8C%A8%ED%84%B4(creational%20pattern)/abstract_factory_picture.png)
